@@ -1,3 +1,11 @@
+/**
+ * Autor: Cesar Araujo
+ * Data: 09/11/2023
+ * Hora: 20hrs
+ * Objetivo: Criar controlador REST para o projeto
+**/
+
+
 package com.fiap.springblog.controller;
 
 import com.fiap.springblog.model.*;
